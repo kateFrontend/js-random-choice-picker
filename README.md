@@ -1,6 +1,6 @@
 # Random Choice Picker
 
-![cover](./assets/)
+![cover](./assets/random.gif)
 
 ## 🦉 Main information
 
@@ -15,31 +15,31 @@ The project goal:
 
 ## 🦊 Useful links 
 
-HTMLElement.focus()
+### HTMLElement.focus()
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus
 ```
 
-setTimeout() method
+### setTimeout() method
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
 ```
 
-setInterval() method
+### setInterval() method
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/setInterval
 ```
 
-Math.floor() method
+### Math.floor() method
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
 ```
 
-Math.random() method
+### Math.random() method
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
